@@ -18,4 +18,4 @@ This approach makes everything easier for a few reasons:
 * this offers a very flexible platform, as the HTTP page can be customized to the maker's liking, so any sort of feature can be implemented.
 
 ## Non-tinkerer users?
-Because the products are ready-for-use as soon as the program is flashed, there is a minimal setup needed. Each device will feature an eazy to understand startup interface at the first boot, or when a reset button is pressed. After this easy setup, everything is ready to go. New 
+Because the products are ready-for-use as soon as the program is flashed, there is a minimal setup needed. Each device will feature an eazy to understand startup interface at the first boot, or when a reset button is pressed. After this easy setup, everything is ready to go. New devices can be added at any time without disrupting the existent setup.
